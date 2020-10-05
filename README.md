@@ -1,2 +1,5 @@
 # Simple_Dynamic_Clock_Webpage
-Created with CodeSandbox
+
+Check it live on https://csb-6rgnx.netlify.app/
+
+
