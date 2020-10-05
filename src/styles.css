@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.content {
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: rgb(64, 240, 20);
+  border-radius: 20px;
+  padding: 20px;
+  position: absolute;
+  top: 40%;
+  background-color: white;
+
+  left: 36%;
+}
+
+.main {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 6em;
+}
+h3 {
+  font-size: 2em;
+}
+
+body > #root > div {
+  height: 100vh;
+}
